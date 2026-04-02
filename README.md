@@ -8,7 +8,7 @@ Quatre exercices techniques réalisés à partir d'un brief fourni par Simplon, 
 Deux LAN (192.168.1.0/24 et 192.168.2.0/24) reliés par un routeur ISR4331.
 Adressage statique sur tous les équipements, validation par ping inter-LAN.
 
-![Topologie partie 1](packet-tracer/topologie-partie1.png)
+![Topologie partie 1](topologie-partie1.png)
 
 ## Topologie réseau — DHCP centralisé (Packet Tracer)
 
