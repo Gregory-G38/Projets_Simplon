@@ -15,7 +15,7 @@ Adressage statique sur tous les équipements, validation par ping inter-LAN.
 Ajout d'un serveur DHCP dans le LAN Site A, avec deux pools d'adresses
 et un IP Helper sur le routeur pour couvrir le Site B.
 
-![Topologie partie 2](packet-tracer/topologie-partie2.png)
+![Topologie partie 2](topologie-partie2.png)
 
 ## Windows Server 2019 (VirtualBox)
 
@@ -23,11 +23,11 @@ Installation et configuration sous VirtualBox : rôles DHCP et ADDS,
 domaine rue25.com, UOs, groupes de sécurité, comptes utilisateurs
 et dossiers partagés avec droits par groupe.
 
-[Documentation](windows-server-2019/Rue25_DHCP_Document_Technique.pdf)
+[Documentation](Partie3_Rue25_DHCP_Document_Technique.pdf)
 
 ## Debian 11.6 + GLPI (VirtualBox)
 
 Déploiement en CLI pur : SSH, stack LAMP, installation et configuration
 initiale de GLPI accessible depuis l'interface web.
 
-[Documentation](debian-glpi/Rue25_GLPI_Document_Technique.pdf)
+[Documentation](Partie4_Rue25_GLPI_Document_Technique.pdf)
